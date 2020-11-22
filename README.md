@@ -5,7 +5,7 @@
 	<p>
 		<a href="https://www.npmjs.com/package/kaori"><img src="https://img.shields.io/npm/v/kaori.svg?maxAge=3600" alt="NPM version" /></a>
 		<a href="https://www.npmjs.com/package/kaori"><img src="https://img.shields.io/npm/dt/kaori.svg?maxAge=3600" alt="NPM downloads" /></a>
-		<a href="https://david-dm.org/iCrawl/kaori"><img src="https://david-dm.org/iCrawl/kaori/status.svg?maxAge=3600" alt="Dependencies" /></a>
+		<!-- <a href="https://david-dm.org/iCrawl/kaori"><img src="http://david-dm.org/iCrawl/kaori/status.svg?maxAge=3600" alt="Dependencies" /></a> -->
 	</p>
 	<p>
 		<a href="https://nodei.co/npm/kaori/"><img src="https://nodei.co/npm/kaori.png?downloads=true&stars=true" alt="NPM info" /></a>
